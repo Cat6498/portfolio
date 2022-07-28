@@ -19,6 +19,14 @@
       .about-div {
           margin: auto 0 auto;
       }
+
+      .bottleft {
+            padding-left:0;
+      }
+
+      .bottright {
+            padding-right:0;
+      }
       
       @media (max-width: 990px) {
         .about-div {
